@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://aurorex.github.io/appMusicVueJS/dist/logo.png')
     h1 {{ msg }}
     //- indicador de progreso:
     spinner(v-show="loading")
